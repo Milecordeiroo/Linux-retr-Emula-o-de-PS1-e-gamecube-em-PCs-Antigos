@@ -1,4 +1,6 @@
 
+
+
 # Linux-retr-Emula-o-de-PS1-e-gamecube-em-PCs-Antigos
 Tutorial passo a passo
 
@@ -112,4 +114,5 @@ Para visualizar os processos em execução:
 
 
 🎮.JOGOS
-
+<img width="3060" height="4080" alt="20260928_163939" src="https://github.com/user-attachments/assets/98728c59-6241-4d2e-bf4b-a6034390d9d4" />
+<img width="3060" height="4080" alt="20260928_164316" src="https://github.com/user-attachments/assets/95a3650f-50a8-4122-a918-70443695b073" />
