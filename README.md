@@ -109,3 +109,7 @@ Manter os drivers gráficos atualizados;
 Verificar a temperatura do computador.
 
 Para visualizar os processos em execução:
+
+
+🎮.JOGOS
+
