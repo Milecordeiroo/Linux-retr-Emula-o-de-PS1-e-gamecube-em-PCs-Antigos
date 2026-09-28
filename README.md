@@ -1,3 +1,4 @@
+
 # Linux-retr-Emula-o-de-PS1-e-gamecube-em-PCs-Antigos
 Tutorial passo a passo
 
@@ -20,7 +21,7 @@ Tutorial passo a passo
 - Testes de jogos;
 
 - Análise das limitações do hardware
-
+<img width="3060" height="4080" alt="20260928_134956 (1)" src="https://github.com/user-attachments/assets/aa1a5a05-7e7d-437d-8a74-548e7753db22" />
  
 🐧 1. Instalação do Linux
 Primeiramente, foi instalada a distribuição [NOME DA DISTRIBUIÇÃO].
@@ -44,6 +45,8 @@ sudo apt update
 sudo apt upgrade
 
 Os comandos podem variar dependendo da distribuição Linux utilizada.
+
+<img width="3060" height="4080" alt="20260928_144316" src="https://github.com/user-attachments/assets/e6a32a9b-5c2f-439f-b123-10f105f867de" />
 
 🔧 2. Configuração inicial
 
@@ -79,6 +82,8 @@ Adicionar os jogos.
 Executar um jogo para teste.
 
 Para computadores antigos, recomenda-se começar com configurações gráficas mais simples.
+
+<img width="3060" height="4080" alt="20260928_135032" src="https://github.com/user-attachments/assets/7cedf071-dee6-41eb-bf34-5833de02f8e0" />
 
 🎮 4. Emulação de GameCube
 Para GameCube foi utilizado o Dolphin Emulator.
